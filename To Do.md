@@ -1,1 +1,1 @@
-- [ ] Test this thing
+* [ ] Test this thing
